@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @xjibrannbilalkhann
+- Hi, I'm Jibran, a passionate Mobile App Developer working on React Native
+- 👋 Software Engineering Student
+- 🌱 Always ready to learn, a bit of everything
 - 👀 I’m interested in development and give in some hours
-- 🌱 I’m currently learning Ruby on Rails and React Native
+- 🌱 UI/UX Designing is fun to work on
 - 💞️ I’m looking to collaborate on projects that include front end designing
-- 📫 How to reach me , here on github, hit me up
+- 📫 How to reach me , here on github or jibran.bilal.123@gmail.com
 
 
 <!---
