@@ -1,5 +1,6 @@
 - Hi, I'm Jibran, a passionate Mobile App Developer working on React Native
-- 👋 Software Engineering Student
+- 👋 React Native Front End Developer
+- 🌱 FinTech, Blockchain Applications
 - 🌱 Always ready to learn, a bit of everything
 - 👀 I’m interested in development and give in some hours
 - 🌱 UI/UX Designing is fun to work on
