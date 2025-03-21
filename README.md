@@ -13,8 +13,8 @@
 - Others: Firebase, API Integration
 
 - 📫 **Let's connect!**
-🌱 [LinkedIn](https://www.linkedin.com/in/your-profile)
-🌱 [GitHub](https://github.com/your-github)
+🌱 [LinkedIn](https://www.linkedin.com/in/jibran-bilal-7b8a9a171/)
+🌱 [GitHub](https://github.com/xjibrannbilalkhann)
 
 
 <!---
