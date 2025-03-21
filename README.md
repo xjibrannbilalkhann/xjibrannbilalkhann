@@ -1,11 +1,20 @@
-- Hi, I'm Jibran, a passionate Mobile App Developer working on React Native
-- 👋 React Native Front End Developer
-- 🌱 FinTech, Blockchain Applications
-- 🌱 Always ready to learn, a bit of everything
-- 👀 I’m interested in development and give in some hours
-- 🌱 UI/UX Designing is fun to work on
-- 💞️ I’m looking to collaborate on projects that include front end designing
-- 📫 How to reach me , here on github or jibran.bilal.123@gmail.com
+- 👋 Hi, I'm Jibran
+- Frontend Mobile App Developer | React Native | Web3 | Blockchain | Fintech
+
+- 🚀 Passionate about building innovative mobile applications using React Native with a focus on Web3 and Fintech solutions. 
+
+💼 Currently working on a Web3 fintech app leveraging blockchain technology.
+
+🔧 Tech Stack & Skills:
+- Frontend: React Native, JavaScript, TypeScript, Redux
+- Web3: Blockchain Integration, Smart Contracts, Ethers.js/Web3.js
+- Mobile Development: Expo, Native Modules, UI/UX
+- Version Control: Git, GitHub, GitLab
+- Others: Firebase, API Integration
+
+- 📫 **Let's connect!**
+🌱 [LinkedIn](https://www.linkedin.com/in/your-profile)
+🌱 [GitHub](https://github.com/your-github)
 
 
 <!---
